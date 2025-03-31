@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Battleship with Java/task/build/
